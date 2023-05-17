@@ -5,11 +5,6 @@
 ## About Me
 Hello, I'm Andrés, a passionate web developer with a deep love for frontend development. Over the past 18 months, I have been dedicated to mastering React and JavaScript. I have worked on various projects, including my own edtech startup called ComeLearning. This journey has sparked an infinite passion for learning and a profound commitment to delivering high-quality web applications.
 
-## Experience
-- Fullstack Developer at ComeLearning (EdTech Startup)
-  - Developed a landing page to gather information from high school students facing academic challenges and connect them with university-level tutors.
-  - Technologies used: HTML, CSS, PHP, MySQL.
-
 ## Projects
 Here are some of the notable projects I have worked on:
 
