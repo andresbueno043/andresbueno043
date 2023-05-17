@@ -2,8 +2,6 @@
 
 ## Passionate Web Developer | Frontend Enthusiast
 
-![Profile Picture](profile_picture.jpg)
-
 ## About Me
 Hello, I'm Andrés, a passionate web developer with a deep love for frontend development. Over the past 18 months, I have been dedicated to mastering React and JavaScript. I have worked on various projects, including my own edtech startup called ComeLearning. This journey has sparked an infinite passion for learning and a profound commitment to delivering high-quality web applications.
 
